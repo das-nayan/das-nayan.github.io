@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "das-nayan/nayan.github.io",
+    "data-repo": "das-nayan/das-nayan.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
